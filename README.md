@@ -18,3 +18,24 @@ Step 3: After skill creation, you can see the below screen
 
 Step 4: Change invocation name (only if the title of your skill contains launch phrases)
 ![Alt Text](/img/4.png)
+
+Step 5
+![Alt Text](/img/5.png)
+
+Step 6
+![Alt Text](/img/6.png)
+
+Step 7
+![Alt Text](/img/7.png)
+
+Step 8
+![Alt Text](/img/8.png)
+
+Step 9
+![Alt Text](/img/9.png)
+
+Step 10
+![Alt Text](/img/10.png)
+
+Step 11
+![Alt Text](/img/11.png)
