@@ -12,3 +12,6 @@ Step 2: Click on "create skill" and
         5) Click on Create Skill
 ![Alt Text](/img/2.png)
 
+Step 3: After skill creation, you can see the below screen
+![Alt Text](/img/3.png)
+
