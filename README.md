@@ -39,3 +39,9 @@ Step 10
 
 Step 11
 ![Alt Text](/img/11.png)
+
+Step 12
+![Alt Text](/img/12.png)
+
+Step 13
+![Alt Text](/img/13.png)
