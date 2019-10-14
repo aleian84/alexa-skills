@@ -39,7 +39,7 @@ Step 9: Code your skill
 Step 10: Test your skill
 ![Alt Text](/img/10.png)
 
-Step 11: Distibute your skill
+Step 11: Distribute your skill
 ![Alt Text](/img/11.png)
 
 Step 12: Validate your skill
