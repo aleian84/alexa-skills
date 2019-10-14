@@ -1,6 +1,8 @@
 # alexa-skills
 A series of Alexa skills to interact with Echo devices
 
+Crate your skill :
+
 Step 1: Connect to https://developer.amazon.com/alexa/console/ask to create your skill 
 ![Alt Text](/img/1.png)
 
