@@ -15,3 +15,6 @@ Step 2: Click on "create skill" and
 Step 3: After skill creation, you can see the below screen
 ![Alt Text](/img/3.png)
 
+
+Step 4: Change invocation name (only if the title of your skill contains launch phrases)
+![Alt Text](/img/4.png)
