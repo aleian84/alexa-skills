@@ -19,29 +19,29 @@ Step 3: After skill creation, you can see the below screen
 Step 4: Change invocation name (only if the title of your skill contains launch phrases)
 ![Alt Text](/img/4.png)
 
-Step 5
+Step 5: Enable correct intefaces
 ![Alt Text](/img/5.png)
 
-Step 6
+Step 6: Add go to home to NavigateHomeIntent
 ![Alt Text](/img/6.png)
 
-Step 7
+Step 7: Add slots and utterances
 ![Alt Text](/img/7.png)
 
-Step 8
+Step 8: Save and Build model
 ![Alt Text](/img/8.png)
 
-Step 9
+Step 9: Code your skill
 ![Alt Text](/img/9.png)
 
-Step 10
+Step 10: Test your skill
 ![Alt Text](/img/10.png)
 
-Step 11
+Step 11: Distibute your skill
 ![Alt Text](/img/11.png)
 
-Step 12
+Step 12: Validate your skill
 ![Alt Text](/img/12.png)
 
-Step 13
+Step 13: Submit on the store
 ![Alt Text](/img/13.png)
